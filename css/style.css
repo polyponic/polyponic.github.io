@@ -75,13 +75,13 @@
 
 		a:hover
 		{
-			color: hsla(107,78%,67%,1);
+			color: hsla(117, 73%, 53%, 0.8);
 			border-bottom-color: rgba(255,255,255,0);
 		}
 
 		a:hover strong
 		{
-			color: hsla(107,78%,67%,1);
+			color: hsla(117, 73%, 53%, 0.8);
 		}
 
 	strong, b
