@@ -132,6 +132,11 @@
 		margin-bottom: 2em;
 	}
 
+	abbr
+	{
+		color: hsla(107,78%,36%,1);
+	}
+
 	br.clear
 	{
 		clear: both;
