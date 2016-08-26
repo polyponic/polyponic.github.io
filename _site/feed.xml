@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Polyponic</title>
+    <description>Find inspiration for aquaponic systems, hydroponic systems, vermiponic systems or mix it up for a unique polyponic system. From systems that fit in a cup to systems to fill up a warehouse, you can learn a little something here.</description>
+    <link>http://polyponic.com/</link>
+    <atom:link href="http://polyponic.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 25 Aug 2016 22:16:19 -0400</pubDate>
+    <lastBuildDate>Thu, 25 Aug 2016 22:16:19 -0400</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>What is Polyponic?</title>
+        <description>&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 24 Aug 2016 20:10:20 -0400</pubDate>
+        <link>http://polyponic.com/2016/08/24/What-is-polyponic.html</link>
+        <guid isPermaLink="true">http://polyponic.com/2016/08/24/What-is-polyponic.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>The joy of swirl filters</title>
+        <description>&lt;p&gt;Erat lorem ipsum veroeros consequat magna tempus lorem ipsum consequat Phasellus laoreet massa id justo mattis pharetra. Fusce suscipit ligula vel quam viverra sit amet mollis tortor congue. Sed quis mauris sit amet magna accumsan tristique. Curabitur leo nibh, rutrum eu malesuada in, tristique at erat. Curabitur leo nibh, rutrum eu malesuada in, tristique at erat lorem ipsum dolor sit amet lorem ipsum sed consequat magna tempus veroeros lorem sed tempus aliquam lorem ipsum veroeros consequat magna tempus&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 23 Aug 2016 20:10:20 -0400</pubDate>
+        <link>http://polyponic.com/2016/08/23/Swirl-Filters.html</link>
+        <guid isPermaLink="true">http://polyponic.com/2016/08/23/Swirl-Filters.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>It's all about the worms.</title>
+        <description>&lt;p&gt;There is one creature that nearly every system or garden should not be without and that is the worm. Worms will consume a variety of things from kitchen scraps, cardboard, and egg shells. Once processed become rich goodness in the form of castings, also called vermicompost. This is packed with some of the best nutrients your plants will need to grow.
+They are also good for making your soil more granular (more crumbly), which helps improve your soil’s structure allowing air and water to move more freely. As worms move around your soil, they also create tunnels. These tunnels help aerate the soil underneath.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 22 Aug 2016 20:10:20 -0400</pubDate>
+        <link>http://polyponic.com/jekyll/update/2016/08/22/All-about-worms.html</link>
+        <guid isPermaLink="true">http://polyponic.com/jekyll/update/2016/08/22/All-about-worms.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>
