@@ -24,5 +24,4 @@ github_username:  polyponic
 # Build settings
 markdown: kramdown
 collections:
-  shoutouts:
   output: true
