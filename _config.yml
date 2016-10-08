@@ -24,4 +24,5 @@ github_username:  polyponic
 # Build settings
 markdown: kramdown
 collections:
-  output: true
+  highlights:
+    output: true
