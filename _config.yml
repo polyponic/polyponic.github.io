@@ -26,3 +26,5 @@ markdown: kramdown
 collections:
   highlights:
     output: true
+  articles:
+    output: true

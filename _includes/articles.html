@@ -1,0 +1,17 @@
+<!-- Content -->
+<div id="content" class="8u 12u(mobile)">
+  {% for article in site.articles limit:5 %}
+  	<article class="box post">
+  		<header>
+  			<h2><a href="{{article.link}}">{{article.title}}
+  			</a></h2>
+  		</header>
+  		<a href="{{article.link}}" class="image featured"><img src="{{article.img}}" alt="" /></a>
+  		<h3>{{article.subtitle}}</h3>
+  		<div>{{article.content}}</div>
+  		<ul class="actions">
+  			<li><a href="{{article.link}}" class="button icon fa-file">Continue Reading</a></li>
+  		</ul>
+  	</article>
+  {% endfor %}
+</div>
